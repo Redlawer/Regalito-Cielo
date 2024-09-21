@@ -93,7 +93,7 @@ body{
 
 /* Estilo para el botón */
 .button button {
-    background-color: yellow; /* Fondo amarillo */
+    background-color: red; /* Fondo amarillo */
     border: none; /* Sin bordes */
     padding: 10px 20px; /* Ajusta el relleno según tu preferencia */
     font-size: 18px; /* Tamaño de fuente */
