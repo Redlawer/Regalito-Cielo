@@ -21,11 +21,11 @@ body{
 }
 @keyframes glow{
     0%, 100%{
-        color: #ff9e2e;
-        text-shadow: 0 0 12px #ffae35, 0 0 50px #ffae35, 0 0 100px #ffae35;
+        color: #ff9191;
+        text-shadow: 0 0 12px #ff9191, 0 0 50px #ff9191, 0 0 100px #ff9191;
     }
     10%, 90%{
-        color: #ffb4b4;
+        color: #ffffff;
         text-shadow: none;
     }
 }
@@ -88,12 +88,12 @@ body{
 }
 
 .description{
-    color: red;
+    color: rgb(252, 117, 117);
 }
 
 /* Estilo para el botón */
 .button button {
-    background-color: red; /* Fondo amarillo */
+    background-color: rgb(252, 117, 117); /* Fondo amarillo */
     border: none; /* Sin bordes */
     padding: 10px 20px; /* Ajusta el relleno según tu preferencia */
     font-size: 18px; /* Tamaño de fuente */
@@ -114,5 +114,3 @@ body{
     background-color: orange; /* Cambia el color de fondo al pasar el mouse a naranja */
     box-shadow: 0 0 10px yellow, 0 0 20px yellow, 0 0 30px yellow; /* Efecto de resplandor amarillo */
   }
-  
-  
